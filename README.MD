@@ -88,14 +88,14 @@ A modern, bilingual Personal Portfolio designed with a focus on **UI/UX Excellen
   
   <p align="center">
     <img src="./Screenshots/Contact Form.jpg" width="700" alt="contact_form"><br>
-    <img src="./Screenshots/Dns .png" width="700"><br>
-    <img src="./Screenshots/Figma Compoments.png" width="700"><br>
-    <img src="./Screenshots/Full page.png" width="700"><br>
-    <img src="./Screenshots/Hamburger menu.jpg" width="700"><br>
-    <img src="./Screenshots/Hero Section.jpg" width="700"><br>
-    <img src="./Screenshots/Project.jpg" width="700"><br>
-    <img src="./Screenshots/Responsive.jpg" width="700"><br>
-    <img src="./Screenshots/Test email.png" width="700"><br>
+    <img src="./Screenshots/Dns .png" width="700" alt="dns><br>
+    <img src="./Screenshots/Figma Compoments.png" width="700" alt="figma_compoments><br>
+    <img src="./Screenshots/Full page.png" width="700" alt="full_page><br>
+    <img src="./Screenshots/Hamburger menu.jpg" width="700" alt="hamburger_menu><br>
+    <img src="./Screenshots/Hero Section.jpg" width="700" alt="hero-section><br>
+    <img src="./Screenshots/Project.jpg" width="700" alt="project><br>
+    <img src="./Screenshots/Responsive.jpg" width="700" alt="responsive><br>
+    <img src="./Screenshots/Test email.png" width="700" alt="test_email><br>
 
   </p>
 </details>
