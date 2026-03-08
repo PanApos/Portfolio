@@ -87,15 +87,15 @@ A modern, bilingual Personal Portfolio designed with a focus on **UI/UX Excellen
   <summary><b>Click to view the full gallery / Κάντε κλικ για την πλήρη συλλογή </b></summary>
   
   <p align="center">
-    <img src="./Screenshots/Contact Form.jpg" width="700" alt="contact_form"><br>
-    <img src="./Screenshots/Dns .png" width="700" alt="dns><br>
-    <img src="./Screenshots/Figma Compoments.png" width="700" alt="figma_compoments><br>
-    <img src="./Screenshots/Full page.png" width="700" alt="full_page><br>
-    <img src="./Screenshots/Hamburger menu.jpg" width="700" alt="hamburger_menu><br>
-    <img src="./Screenshots/Hero Section.jpg" width="700" alt="hero-section><br>
-    <img src="./Screenshots/Project.jpg" width="700" alt="project><br>
-    <img src="./Screenshots/Responsive.jpg" width="700" alt="responsive><br>
-    <img src="./Screenshots/Test email.png" width="700" alt="test_email><br>
+    <img src="./Screenshots/Contact Form.jpg" alt="contact_form" width="700"><br>
+    <img src="./Screenshots/Dns .png"  alt="dns" width="700"><br>
+    <img src="./Screenshots/Figma Compoments.png"  alt="figma_compoments" width="700" ><br>
+    <img src="./Screenshots/Full page.png" alt="full_page" width="700" ><br>
+    <img src="./Screenshots/Hamburger menu.jpg" alt="hamburger_menu" width="700" ><br>
+    <img src="./Screenshots/Hero Section.jpg" alt="hero-section" width="700" ><br>
+    <img src="./Screenshots/Project.jpg" alt="project" width="700" ><br>
+    <img src="./Screenshots/Responsive.jpg" alt="responsive" width="700" ><br>
+    <img src="./Screenshots/Test email.png" alt="test_email" width="700" ><br>
 
   </p>
 </details>
