@@ -88,7 +88,7 @@ A modern, bilingual Personal Portfolio designed with a focus on **UI/UX Excellen
   
   <p align="center">
     <img src="./Screenshots/Contact_Form.jpg" alt="contact_form" width="700"><br>
-    <img src="./Screenshots/Dns.png"  alt="dns" width="700"><br>
+    <img src="./Screenshots/Dns.png" alt="dns" width="700"><br>
     <img src="./Screenshots/Figma_Compoments.png"  alt="figma_compoments" width="700" ><br>
     <img src="./Screenshots/Full_page.png" alt="full_page" width="700" ><br>
     <img src="./Screenshots/Hamburger_menu.jpg" alt="hamburger_menu" width="700" ><br>
