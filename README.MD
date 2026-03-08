@@ -87,15 +87,15 @@ A modern, bilingual Personal Portfolio designed with a focus on **UI/UX Excellen
   <summary><b>Click to view the full gallery / Κάντε κλικ για την πλήρη συλλογή </b></summary>
   
   <p align="center">
-    <img src="./Screenshots/Contact Form.jpg" alt="contact_form" width="700"><br>
-    <img src="./Screenshots/Dns .png"  alt="dns" width="700"><br>
-    <img src="./Screenshots/Figma Compoments.png"  alt="figma_compoments" width="700" ><br>
-    <img src="./Screenshots/Full page.png" alt="full_page" width="700" ><br>
-    <img src="./Screenshots/Hamburger menu.jpg" alt="hamburger_menu" width="700" ><br>
-    <img src="./Screenshots/Hero Section.jpg" alt="hero-section" width="700" ><br>
+    <img src="./Screenshots/Contact_Form.jpg" alt="contact_form" width="700"><br>
+    <img src="./Screenshots/Dns.png"  alt="dns" width="700"><br>
+    <img src="./Screenshots/Figma_Compoments.png"  alt="figma_compoments" width="700" ><br>
+    <img src="./Screenshots/Full_page.png" alt="full_page" width="700" ><br>
+    <img src="./Screenshots/Hamburger_menu.jpg" alt="hamburger_menu" width="700" ><br>
+    <img src="./Screenshots/Hero_Section.jpg" alt="hero-section" width="700" ><br>
     <img src="./Screenshots/Project.jpg" alt="project" width="700" ><br>
     <img src="./Screenshots/Responsive.jpg" alt="responsive" width="700" ><br>
-    <img src="./Screenshots/Test email.png" alt="test_email" width="700" ><br>
+    <img src="./Screenshots/Test_email.png" alt="test_email" width="700" ><br>
 
   </p>
 </details>
