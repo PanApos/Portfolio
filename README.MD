@@ -79,7 +79,7 @@ A modern, bilingual Personal Portfolio designed with a focus on **UI/UX Excellen
 
 ## Project Preview
 
-<img src="./Screenshots/Full page.png" width="400">
+<img src="./Screenshots/Full_page.png" alt="full_page" width="400" ><br>
 
 **More Screenshots**
 
