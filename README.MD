@@ -91,7 +91,7 @@ A modern, bilingual Personal Portfolio designed with a focus on **UI/UX Excellen
     <img src="./Screenshots/Dns .png" alt="dns" width="700"><br>
     <img src="./Screenshots/Figma_ Compoments.png"  alt="figma_compoments" width="700" ><br>
     <img src="./Screenshots/Full_page.png" alt="full_page" width="700" ><br>
-    <img src="./Screenshots/Hamburger_menu.jpg" alt="hamburger_menu" width="700" ><br>
+    <img src="./Screenshots/Hamburger_ menu.jpg" alt="hamburger_menu" width="700" ><br>
     <img src="./Screenshots/Hero_Section.jpg" alt="hero-section" width="700" ><br>
     <img src="./Screenshots/Project.jpg" alt="project" width="700" ><br>
     <img src="./Screenshots/Responsive.jpg" alt="responsive" width="700" ><br>
