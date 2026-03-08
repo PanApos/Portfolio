@@ -87,7 +87,7 @@ A modern, bilingual Personal Portfolio designed with a focus on **UI/UX Excellen
   <summary><b>Click to view the full gallery / Κάντε κλικ για την πλήρη συλλογή </b></summary>
   
   <p align="center">
-    <img src="./Screenshots/Contact Form.jpg" width="700"><br>
+    <img src="./Screenshots/Contact Form.jpg" width="700" alt:"contact_form"><br>
     <img src="./Screenshots/Dns .png" width="700"><br>
     <img src="./Screenshots/Figma Compoments.png" width="700"><br>
     <img src="./Screenshots/Full page.png" width="700"><br>
